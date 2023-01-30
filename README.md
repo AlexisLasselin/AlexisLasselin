@@ -1,5 +1,8 @@
-![](https://i.imgur.com/YBqg9JG.gif)
+![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Alexis Lasselin</h1>
 
-![](https://komarev.com/ghpvc/?username=AlexisLasselin&color=brightgreen&style=plastic)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AlexisLasselin/count.svg" />
+</p>
