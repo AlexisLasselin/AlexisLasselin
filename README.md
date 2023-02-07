@@ -38,7 +38,7 @@
 - **Linkedin** : *[@Alexis Lasselin](https://www.linkedin.com/in/alexis-lasselin-318649251/)*
 - **Stackoverflow** : *[Alexis Lasselin](https://stackoverflow.com/users/20451172/alexis-lasselin)*
 
-## <img src="[https://cdn.discordapp.com/emojis/857822954645094440.gif?size=160&quality=lossless](https://cdn.discordapp.com/emojis/933189860494299176.gif?quality=lossless)" width=25> The projects I worked on
+## <img src="https://cdn.discordapp.com/emojis/933189860494299176.gif?size=96&quality=lossless" width=25> The projects I worked on
 
 <details>
 <summary>🏫 School projects</summary>
