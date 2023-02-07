@@ -8,7 +8,7 @@
 
 ## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width= 25> About Me
 
-- I'm a [${\color{Blue}Fr\color{White}en\color{red}ch}$](https://www.youtube.com/watch?v=4K1q9Ntcr5g) student in computer science at [**ALGOSUP**](https://algosup.com/).
+- I'm a ${\color{Blue}Fr\color{White}en\color{red}ch}$ student in computer science at [**ALGOSUP**](https://algosup.com/).
 - I'm currently working on a project called [Binding-project](https://github.com/algosup/2022-2023-project-3-harfang3d-binding-Project-4-group) as a project manager.
 - This is my first year in higher education, in computer science.
 
