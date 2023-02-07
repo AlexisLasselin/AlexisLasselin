@@ -16,20 +16,17 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/854490183071039488.gif?size=160&quality=lossless" width=25> Languages I know or I'm learning
 
-- **C++** : I'm currently learning C++.
-- **F#** : I'm currently learning F#.
-- **Go** : I know the basics of Go.
-- **Python** : I know the basics of Python.
-- **JS** : I know the basics of JS.
+-  I'm currently learning **C++** and **F#**.
+-  I know the basics of **Go**; **Python** and **JS**
 
 ### 🛠️ Tools I use
 
-- **Visual Studio Code** : I use Visual Studio Code for my projects.
-- **Discord** : I use Discord for my communication.
-- **Twitter** : I use Twitter to follow the news.
+- **Visual Studio Code** as an IDE
+- **Discord** for my communications with friends and classmates.
+- **Twitter** to follow the news, mainly about tech and videogames.
 - **Linkedin** : I use Linkedin to learn more about the professional world.
-- **Stackoverflow** : I use Stackoverflow to find answers to my questions.
-- **Github** : I use Github to store my projects.
+- **Stackoverflow** to find answers to my questions and to help others, if I can.
+- **Github** as a projects' keeper.
 
 ## <img src="https://cdn.discordapp.com/emojis/621813805956988972.gif?size=160&quality=lossless" width = 25> How to reach me:
 
@@ -41,7 +38,7 @@
 - **Linkedin** : *[@Alexis Lasselin](https://www.linkedin.com/in/alexis-lasselin-318649251/)*
 - **Stackoverflow** : *[Alexis Lasselin](https://stackoverflow.com/users/20451172/alexis-lasselin)*
 
-## <img src="https://cdn.discordapp.com/emojis/857822954645094440.gif?size=160&quality=lossless" width=25> The projects I worked on
+## <img src="[https://cdn.discordapp.com/emojis/857822954645094440.gif?size=160&quality=lossless](https://cdn.discordapp.com/emojis/933189860494299176.gif?quality=lossless)" width=25> The projects I worked on
 
 <details>
 <summary>🏫 School projects</summary>
