@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width= 25> About Me
 
 - I'm a <span style="color: blue;">Fr</span><span style="color: white;">en</span><span style="color: red;">ch</span> student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [Binding-project](https://github.com/algosup/2022-2023-project-3-harfang3d-binding-Project-4-group) as a project manager.
+- I'm currently working on a project called [Game design](https://github.com/algosup/2022-2023-project-4-game-design-Team-4) as a project manager.
 - This is my first year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -18,8 +18,8 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/854490183071039488.gif?size=160&quality=lossless" width=25> Languages I know or I'm learning
 
--  I'm currently learning **C++** and **F#**.
--  I know the basics of **Go**; **Python** and **JS**
+-  I'm currently learning **C++**.
+-  I know the basics of **Go**; **Python**; **F#** and **JS**
 
 ### 🛠️ Tools I use
 
@@ -48,12 +48,14 @@
   1. [APPSolu](#1-APPSolu)
   2. [AppNewsNetwork](#2-AppNewsNetwork)
   3. [FABGen bindings](#3-FABGen-bindings)
+  4. [Game design](#4-Game-design)
 
-| **Period**                          | <a id="1-APPSolu"></a>**Name**        | **Description**                                                                                                                                              | **Link**                                                                                     | **Role**          
-:-----------------------------------:|:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-----------------:
-| 27 September 2022 ➜ 28 October 2022 | <a id="2-AppNewsNetwork"></a>APPSolu         | SIGNALL contact us to create a prototype of smart signage for signs                                                                                          | [Our repo](https://github.com/algosup/2022-2023-project-1-smart-signage-Project-4-group)     | QA                
-| 7 November 2022 ➜ 18 December 2022  | <a id="3-FABGen-bindings"></a>AppNewsNetwork  | Jacobi asked us for a way to improve communication in their factory, so we decided to modify a TV to be able to display the information shared on a website. | [Our repo](https://github.com/algosup/2022-2023-project-2-factory-display-Project-4-group)   | Software Engineer 
-| 3 January 2023 ➜ 17 Febuary 2023    | FABGen bindings | HARFANG 3D is a French 3D engine company that asked us to design bindings in F# for their 3D engine.                                                         | [Our repo](https://github.com/algosup/2022-2023-project-3-harfang3d-binding-Project-4-group) | Project Manager   
+| **Period** | **Name** | **Description** | **Link** | **Role**          
+:-:|:-:|:-:|:-:|:-:
+| 27 September 2022 ➜ 28 October 2022 | <a id="1-APPSolu"></a>APPSolu         | SIGNALL contact us to create a prototype of smart signage for signs                                                                                          | [Our repo](https://github.com/algosup/2022-2023-project-1-smart-signage-Project-4-group)     | QA
+| 7 November 2022 ➜ 18 December 2022 | <a id="2-AppNewsNetwork"></a>AppNewsNetwork | Jacobi asked us for a way to improve communication in their factory, so we decided to modify a TV to be able to display the information shared on a website. | [Our repo](https://github.com/algosup/2022-2023-project-2-factory-display-Project-4-group) | Software Engineer
+| 3 January 2023 ➜ 17 Febuary 2023 | <a id="3-FABGen-bindings"></a>FABGen bindings | HARFANG 3D is a French 3D engine company that asked us to design bindings in F# for their 3D engine. | [Our repo](https://github.com/algosup/2022-2023-project-3-harfang3d-binding-Project-4-group) | Project Manager|
+| 27 February 2023 ➜ 14 March 2023 | <a id="4-Game-design"></a>Game design | We must create a video game with Unreal Engine 4. | [Our repo](https://github.com/algosup/2022-2023-project-4-game-design-Team-4) | Tech lead |
 
 </details>
 
