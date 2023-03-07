@@ -26,7 +26,7 @@
 - **Visual Studio Code** as an IDE
 - **Discord** for my communications with friends and classmates.
 - **Twitter** to follow the news, mainly about tech and videogames.
-- **Linkedin** : I use Linkedin to learn more about the professional world.
+- **LinkedIn** : I use Linkedin to learn more about the professional world.
 - **Stackoverflow** to find answers to my questions and to help others, if I can.
 - **Github** as a projects' keeper.
 
