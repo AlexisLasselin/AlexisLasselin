@@ -50,7 +50,7 @@
   3. [FABGen bindings](#3-FABGen-bindings)
   4. [Game design](#4-Game-design)
 
-| **Period** | <a id="1-APPSolu"></a>**Name** | **Description** | **Link** | **Role**          
+| **Period** | <a id="1-APPSolu"></a>**Name** | **Description** | **Link** | **Role**
 :-:|:-:|:-:|:-:|:-:
 | 27 September 2022 ➜ 28 October 2022 | <a id="2-AppNewsNetwork"></a>APPSolu | SIGNALL contact us to create a prototype of smart signage for signs | [Our repo](https://github.com/algosup/2022-2023-project-1-smart-signage-Project-4-group) | QA
 | 7 November 2022 ➜ 18 December 2022 | <a id="3-FABGen-bindings"></a>AppNewsNetwork | Jacobi asked us for a way to improve communication in their factory, so we decided to modify a TV to be able to display the information shared on a website. | [Our repo](https://github.com/algosup/2022-2023-project-2-factory-display-Project-4-group) | Software Engineer
