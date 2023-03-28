@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width= 25> About Me
 
 - I'm a <span style="color: blue;">Fr</span><span style="color: white;">en</span><span style="color: red;">ch</span> student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [Game design](https://github.com/algosup/2022-2023-project-4-game-design-Team-4) as a project manager.
+- I'm currently working on a project called [Game design](https://github.com/algosup/2022-2023-project-4-game-design-Team-4) as a Tech Lead.
 - This is my first year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
