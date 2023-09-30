@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width= 25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [Algorithmics](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-4) as a Program manager.
+- I'm currently working on a project called [**Rubik's art**](https://github.com/alexislasselin/2023-2024-project-1-rubiks-art-Team-3).
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
