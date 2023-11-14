@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width= 25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [**Rubik's art**](https://github.com/alexislasselin/2023-2024-project-1-rubiks-art-Team-3).
+- I'm currently working on a project called [x86-Retrogaming](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1/tree/main)
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -56,6 +56,7 @@
   [Year 2023 ➜ 2024](#Year-2023-➜-2024)
   
   1. [Rubik's art](#1-Rubiks-art)
+  2. [x86 retrogaming](#2-x86-retrogaming)
 
 | **Period** | **Name** | **Description** | **Link** | **Role** |
 :-:|:-:|:-:|:-:|:-:|
@@ -67,6 +68,7 @@
 | 2 May 2023 ➜ 23 June 2023 | <a id="5-Algorithmics"></a>Algorithmics | We're working for Krug Champagne and we have to create a software helping them with the champagne's Blending| [Our repo](https://github.com/algosup/2022-2023-project-5-algorithmics-Team-4) | Program Manager |
 |||<a id="Year-2023-➜-2024"></a>***Year 2023 ➜ 2024***|||
 | 25 September 2023 ➜ 27 October 2023 | <a id="1-Rubiks-art"></a> Rubik's art | We must build a Rubik's mural for the entrance of the school. | [Our repo](https://github.com/alexislasselin/2023-2024-project-1-rubiks-art-Team-3) | |
+| 6 November 2023 ➜ 22 december 2023| <a id="2-x86-retrogaming"></a>x86 retrogaming| The goal is to recreate PacMan in x86 assembly| [Our repo](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1/tree/main) | Project Manager |
 
 </details>
 
