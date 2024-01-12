@@ -19,7 +19,7 @@
 ### <img src="https://cdn.discordapp.com/emojis/854490183071039488.gif?size=160&quality=lossless" width=25> Languages I know or I'm learning
 
 <!-- - I'm currently learning **C++** and **C#**. -->
-- I know the basics of **Go**; **Python**; **F#** and **JS**
+- I know the basics of **Go**; **Python**; **F#**; **C** and **JS**
 
 ### 🛠️ Tools I use
 
