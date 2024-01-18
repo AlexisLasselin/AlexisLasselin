@@ -13,6 +13,7 @@
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisLasselin&hide=shaderlab,html,hlsl,css,js&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Languages and Tools
 
