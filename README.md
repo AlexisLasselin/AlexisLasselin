@@ -6,7 +6,7 @@
 
 ![My stats](https://komarev.com/ghpvc/?username=AlexisLasselin&color=brightgreen&style=plastic)
 
-## <img src="https://cdn.discordapp.com/attachments/699735329288093818/1072516646708723813/1045822481803526184.png" width=25> About Me
+## <img src="https://media.discordapp.net/attachments/699735329288093818/1217764300492636193/1045822481803526184.png?ex=66053662&is=65f2c162&hm=445d83b79739a4e386872de3b5ad9b763a42a09e259f03a2c0d576cfe786aff5&=&format=webp&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
 - I'm currently working on a project called [virtual-processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1).
