@@ -9,7 +9,7 @@
 ## <img src="https://media.discordapp.net/attachments/699735329288093818/1217764300492636193/1045822481803526184.png?ex=66053662&is=65f2c162&hm=445d83b79739a4e386872de3b5ad9b763a42a09e259f03a2c0d576cfe786aff5&=&format=webp&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [virtual-processor](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1).
+- I'm currently working on a project called [SPORTSHIELD](github.com/algosup/2023-2024-project-4-sportshield-team-4).
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -32,11 +32,11 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/621813805956988972.gif?size=160&quality=lossless" width = 25> How to reach me
 
-- **Discord** : _Yuream_
 - **Mail** :
   - School : *alexis.lasselin@algosup.com*
 - **Twitter** : _[@Lasselin Alexis](https://twitter.com/LasselinAlexis1)_
 - **Linkedin** : _[@Alexis Lasselin](https://www.linkedin.com/in/alexis-lasselin-318649251/)_
+- **Discord** : _Yuream_
 - **Stackoverflow** : _[Alexis Lasselin](https://stackoverflow.com/users/20451172/alexis-lasselin)_
 
 ## <img src="https://cdn.discordapp.com/emojis/933189860494299176.gif?size=96&quality=lossless" width=25> The projects I worked on
