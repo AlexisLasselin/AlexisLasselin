@@ -9,7 +9,7 @@
 ## <img src="https://media.discordapp.net/attachments/699735329288093818/1217764300492636193/1045822481803526184.png?ex=66053662&is=65f2c162&hm=445d83b79739a4e386872de3b5ad9b763a42a09e259f03a2c0d576cfe786aff5&=&format=webp&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [SPORTSHIELD](github.com/algosup/2023-2024-project-4-sportshield-team-4).
+- I'm currently working on a project called [Adopte un candidat](<[github.com/algosup/2023-2024-project-4-sportshield-team-4](https://github.com/algosup/2023-2024-project-5-flutter-team-3)>).
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -58,6 +58,7 @@
 2. [x86 retrogaming](#2-x86-retrogaming)
 3. [virtual-processor](#3-virtual-processor)
 4. [SportShield](#4-sportshield)
+5. [Adopte un candidat](#5-flutter)
 
 |             **Period**              |                     **Name**                      |                                                                       **Description**                                                                        |                                           **Link**                                           |     **Role**      |
 | :---------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------: |
@@ -72,6 +73,7 @@
 | 6 November 2023 ➜ 22 december 2023  |   <a id="2-x86-retrogaming"></a>x86 retrogaming   |                                                        The goal is to recreate PacMan in x86 assembly                                                        | [Our repo](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-1/tree/main)  |  Project Manager  |
 |  8 January 2024 ➜ 23 February 2024  | <a id="3-virtual-processor"></a>Virtual Processor |                                                           Recreate a computer inside of a computer                                                           |     [Our repo](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1)      | Software Engineer |
 |    11 March 2024 ➜ 19 April 2024    |       <a id="4-sportshield"></a>SportShield       |                            CORIS Innovation asked us to improve their current product, an anti-theft system for sports equipment.                            |            [Our repo](github.com/algosup/2023-2024-project-4-sportshield-team-4)             |     Tech Lead     |
+|     13 May 2024 ➜ 21 June 2024      |     <a id="5-flutter"></a>Adopte un candidat      |                                           We must create a Tinder-like app for matching job seekers and employers                                            |          [Our repo](https://github.com/algosup/2023-2024-project-5-flutter-team-3)           | Technical Writer  |
 
 </details>
 
