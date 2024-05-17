@@ -6,7 +6,7 @@
 
 ![My stats](https://komarev.com/ghpvc/?username=AlexisLasselin&color=brightgreen&style=plastic)
 
-## <img src="https://media.discordapp.net/attachments/699735329288093818/1217764300492636193/1045822481803526184.png?ex=66053662&is=65f2c162&hm=445d83b79739a4e386872de3b5ad9b763a42a09e259f03a2c0d576cfe786aff5&=&format=webp&quality=lossless" width=25> About Me
+## <img src="https://media.discordapp.net/attachments/699735329288093818/1240963356278652928/1045822481803526184.png?ex=664878b0&is=66472730&hm=66457f1e9bcf559a67223451dd20af33842864c924c25c6233fc2b679745e95e&=&format=webp&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
 - I'm currently working on a project called [Adopte un candidat](<[github.com/algosup/2023-2024-project-4-sportshield-team-4](https://github.com/algosup/2023-2024-project-5-flutter-team-3)>).
