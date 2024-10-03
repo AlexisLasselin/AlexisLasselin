@@ -6,10 +6,10 @@
 
 ![My stats](https://komarev.com/ghpvc/?username=AlexisLasselin&color=brightgreen&style=plastic)
 
-## <img src="https://media.discordapp.net/attachments/699735329288093818/1248240150618705941/1045822481803526184.png?ex=6662f1bb&is=6661a03b&hm=5acd5cae2e185b6dafc85393091446522a451681854ab02e0b39b103aeb5db21&format=webp&quality=lossless" width=25> About Me
+## <img src="https://cdn.discordapp.com/emojis/1045822481803526184.webp?size=96&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [Adopte un candidat](<[github.com/algosup/2023-2024-project-4-sportshield-team-4](https://github.com/algosup/2023-2024-project-5-flutter-team-3)>).
+- I'm currently working on a project called [**FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-5).
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -60,6 +60,10 @@
 4. [SportShield](#4-sportshield)
 5. [Adopte un candidat](#5-flutter)
 
+[Year 2024 ➜ 2025](#Year-2024-➜-2025)
+
+1. [FPGA](#1-FPGA)
+
 |             **Period**              |                     **Name**                      |                                                                       **Description**                                                                        |                                           **Link**                                           |     **Role**      |
 | :---------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------: |
 |                                     |                                                   |                                                     <a id="Year-2022-➜-2023"></a>**_Year 2022 ➜ 2023_**                                                      |                                                                                              |                   |
@@ -74,6 +78,8 @@
 |  8 January 2024 ➜ 23 February 2024  | <a id="3-virtual-processor"></a>Virtual Processor |                                                           Recreate a computer inside of a computer                                                           |     [Our repo](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-1)      | Software Engineer |
 |    11 March 2024 ➜ 19 April 2024    |       <a id="4-sportshield"></a>SportShield       |                            CORIS Innovation asked us to improve their current product, an anti-theft system for sports equipment.                            |            [Our repo](github.com/algosup/2023-2024-project-4-sportshield-team-4)             |     Tech Lead     |
 |     13 May 2024 ➜ 21 June 2024      |     <a id="5-flutter"></a>Adopte un candidat      |                                           We must create a Tinder-like app for matching job seekers and employers                                            |          [Our repo](https://github.com/algosup/2023-2024-project-5-flutter-team-3)           | Technical Writer  |
+|                                     |                                                   |                                                     <a id="Year-2024-➜-2025"></a>**_Year 2024 ➜ 2025_**                                                      |                                                                                              |                   |
+| 23 September 2024 ➜ 25 October 2024 |              <a id="1-FPGA"></a>FPGA              |                                          This time, we had to recreate the arcade game "Frogger" in FPGA - Verilog                                           |            [Our repo](https://github.com/algosup/2024-2025-project-1-fpga-team-5)            |  Project Manager  |
 
 </details>
 
