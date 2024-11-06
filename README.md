@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/emojis/1045822481803526184.webp?size=96&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [**FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-5).
+- I'm currently working on a project called [**Serious Game**](https://github.com/algosup/2024-2025-project-2-serious-game-team-5).
 - This is my second year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -63,6 +63,7 @@
 [Year 2024 ➜ 2025](#Year-2024-➜-2025)
 
 1. [FPGA](#1-FPGA)
+2. [Serious Game](#2-Serious-Game)
 
 |             **Period**              |                     **Name**                      |                                                                       **Description**                                                                        |                                           **Link**                                           |     **Role**      |
 | :---------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------: |
@@ -80,6 +81,7 @@
 |     13 May 2024 ➜ 21 June 2024      |     <a id="5-flutter"></a>Adopte un candidat      |                                           We must create a Tinder-like app for matching job seekers and employers                                            |          [Our repo](https://github.com/algosup/2023-2024-project-5-flutter-team-3)           | Technical Writer  |
 |                                     |                                                   |                                                     <a id="Year-2024-➜-2025"></a>**_Year 2024 ➜ 2025_**                                                      |                                                                                              |                   |
 | 23 September 2024 ➜ 25 October 2024 |              <a id="1-FPGA"></a>FPGA              |                                          This time, we had to recreate the arcade game "Frogger" in FPGA - Verilog                                           |            [Our repo](https://github.com/algosup/2024-2025-project-1-fpga-team-5)            |  Project Manager  |
+|  4 October 2024 ➜ 20 December 2024  |      <a id="2-Serious-Game"></a>Serious Game      |                                                Create a serious game in Godot about ecology / climate changes                                                |        [Our repo](https://github.com/algosup/2024-2025-project-2-serious-game-team-5)        | Software Engineer |
 
 </details>
 
