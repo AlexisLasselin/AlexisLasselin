@@ -9,7 +9,7 @@
 ## <img src="https://cdn.discordapp.com/emojis/1045822481803526184.webp?size=96&quality=lossless" width=25> About Me
 
 - I'm a French student in computer science at [**ALGOSUP**](https://algosup.com/).
-- I'm currently working on a project called [**Quickest Path**](https://github.com/algosup/2024-2025-project-3-quickest-path-team-3).
+- I'm currently working on a project called [**Web FPGA**](https://github.com/algosup/2024-2025-project-4-web-fpga-team-3).
 - This is my third year in higher education, in computer science.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexisLasselin&show_icons=true&theme=aura)](https://github.com/AlexisLasselin)
@@ -83,6 +83,7 @@
 | 23 September 2024 ➜ 25 October 2024 |              <a id="1-FPGA"></a>FPGA              |                                          This time, we had to recreate the arcade game "Frogger" in FPGA - Verilog                                           |            [Our repo](https://github.com/algosup/2024-2025-project-1-fpga-team-5)            |  Project Manager  |
 |  4 October 2024 ➜ 20 December 2024  |      <a id="2-Serious-Game"></a>Serious Game      |                                                Create a serious game in Godot about ecology / climate changes                                                |        [Our repo](https://github.com/algosup/2024-2025-project-2-serious-game-team-5)        | Software Engineer |
 |  6 January 2025 ➜ 14 February 2025  |     <a id="3-Quickest-Path"></a>Quickest Path     |                               Create a C++ software to find the quickest path between two points using algorithms and REST API                               |       [Our repo](https://github.com/algosup/2024-2025-project-3-quickest-path-team-3)        |  Program Manager  |
+|  24 February 2025 ➜ 04 April 2025   |          <a id="4-Web-FPGA"></a>Web FPGA          |                                                                                                                                                              |          [Our repo](https://github.com/algosup/2024-2025-project-4-web-fpga-team-3)          |  Technical Lead   |
 
 </details>
 
