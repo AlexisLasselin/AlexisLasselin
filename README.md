@@ -64,6 +64,9 @@
 
 1. [FPGA](#1-FPGA)
 2. [Serious Game](#2-Serious-Game)
+3. [Quickest Path](#3-Quickest-Path)
+4. [Web FPGA](#4-Web-FPGA)
+5. [Bubble](#5-Bubbles)
 
 |             **Period**              |                     **Name**                      |                                                                       **Description**                                                                        |                                           **Link**                                           |     **Role**      |
 | :---------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :---------------: |
@@ -83,7 +86,8 @@
 | 23 September 2024 ➜ 25 October 2024 |              <a id="1-FPGA"></a>FPGA              |                                          This time, we had to recreate the arcade game "Frogger" in FPGA - Verilog                                           |            [Our repo](https://github.com/algosup/2024-2025-project-1-fpga-team-5)            |  Project Manager  |
 |  4 October 2024 ➜ 20 December 2024  |      <a id="2-Serious-Game"></a>Serious Game      |                                                Create a serious game in Godot about ecology / climate changes                                                |        [Our repo](https://github.com/algosup/2024-2025-project-2-serious-game-team-5)        | Software Engineer |
 |  6 January 2025 ➜ 14 February 2025  |     <a id="3-Quickest-Path"></a>Quickest Path     |                               Create a C++ software to find the quickest path between two points using algorithms and REST API                               |       [Our repo](https://github.com/algosup/2024-2025-project-3-quickest-path-team-3)        |  Program Manager  |
-|  24 February 2025 ➜ 04 April 2025   |          <a id="4-Web-FPGA"></a>Web FPGA          |                                                                                                                                                              |          [Our repo](https://github.com/algosup/2024-2025-project-4-web-fpga-team-3)          |  Technical Lead   |
+|  24 February 2025 ➜ 04 April 2025   |          <a id="4-Web-FPGA"></a>Web FPGA          |                                              Create an FPGA visualisation of the components via a web interface                                              |          [Our repo](https://github.com/algosup/2024-2025-project-4-web-fpga-team-3)          |  Technical Lead   |
+|    21 April 2025 ➜ 20 June 2025     |           <a id="5-Bubbles"></a>Bubble            |                                                   Create a matching wine and cheese mobile app via Bubble                                                    |     [Our repo](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-2)     |        QA         |
 
 </details>
 
